@@ -34,5 +34,3 @@ it would be a massive undertaking regardless of skill level.
 
 
 That is all for now, 'till next time.
-
--Radiation 2024
