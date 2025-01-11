@@ -1,0 +1,19 @@
+<div class="entry">
+    <div class="entryTitle"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <div class="date">
+        {{partial "date.html" .}}
+      </div>
+    </div>
+
+    <div class="entryBody">
+
+    <div class="entryContent">
+    {{ .Summary | truncate 200}}
+    </div>
+
+
+    <div class="entryFooter">
+      {{ partial "tags.html" .}}
+    </div>
+    </div>
+</div>

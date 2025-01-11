@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive on Blog of RANDOM</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Archive on Blog of RANDOM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 03:18:01 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First (rigged) model in Blender!</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Wed, 08 Jan 2025 03:18:01 -0600</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;I have been getting into 3D Modeling / Rigging as of late after years of wanting to do so. This is a Kirby model I made in a couple of hours. It&amp;rsquo;s&#xA;also fully rigged!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://file.garden/ZWkvNY4S7Xz2vybq/neovium/blog-images/kirbyrendertest2.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I chose a simple character on purpose. As much as I want to make my OCs 3D #inreallife I don&amp;rsquo;t think my skill level is good enough yet for&#xA;that. I am a huge Kirby fan though&amp;hellip; so, why not?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Greetings</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Tue, 07 Jan 2025 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;ve thought about making a blog thousands of times before, but I never actually went through with any of it. I really wanted a good, automated system, and when I was first starting out with webdev stuff on Neocities I manually did everything by hand- which was incredibly tedious and progressively harder to manage as more entries piled up.&lt;/p&gt;&#xA;&lt;p&gt;After a while with new knowledge I gave all of this another go; originally this blog was coded in PHP / Javascript, rendering HTML in real time&amp;hellip; until I realized that everything I wanted to do is already doable with a static site generator (woops, I overcomplicated things yet again!), this when I discovered Hugo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

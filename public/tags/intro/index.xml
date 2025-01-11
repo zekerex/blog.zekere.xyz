@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on Blog of RANDOM</title>
+    <link>http://localhost:1313/tags/intro/</link>
+    <description>Recent content in Intro on Blog of RANDOM</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 09:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greetings</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Tue, 07 Jan 2025 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;ve thought about making a blog thousands of times before, but I never actually went through with any of it. I really wanted a good, automated system, and when I was first starting out with webdev stuff on Neocities I manually did everything by hand- which was incredibly tedious and progressively harder to manage as more entries piled up.&lt;/p&gt;&#xA;&lt;p&gt;After a while with new knowledge I gave all of this another go; originally this blog was coded in PHP / Javascript, rendering HTML in real time&amp;hellip; until I realized that everything I wanted to do is already doable with a static site generator (woops, I overcomplicated things yet again!), this when I discovered Hugo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
