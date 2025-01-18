@@ -7,7 +7,7 @@ tags = ['intro']
 
 Hi! I've thought about making a blog thousands of times before, but I never actually went through with any of it. I really wanted a good, automated system, and when I was first starting out with webdev stuff on Neocities I manually did everything by hand- which was incredibly tedious and progressively harder to manage as more entries piled up.
 
-After a while with new knowledge I gave all of this another go; originally this blog was coded in PHP / Javascript, rendering HTML in real time... until I realized that everything I wanted to do is already doable with a static site generator (woops, I overcomplicated things yet again!), this when I discovered Hugo.
+After a while with new knowledge I gave all of this another go; originally this blog was coded in PHP / Javascript, rendering HTML in real time... until I realized that everything I wanted to do is already doable with a static site generator (woops, I overcomplicated things yet again!), this is when I discovered Hugo.
 
 Hugo is an insanely powerful tool. Like, seriously. I am planning on incooperating this into my workflow ASAP. It's very intutive, has good documentation, and is all-around just... really nice. It's written in Go, too, which means compiling everything is *insanely fast*!
 
