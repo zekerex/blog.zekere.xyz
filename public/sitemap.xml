@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2025-01-29T16:06:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post-3/</loc>
+    <lastmod>2025-01-29T16:06:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-29T16:06:18-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/3d/</loc>
     <lastmod>2025-01-08T03:18:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-2/</loc>
-    <lastmod>2025-01-08T03:18:01-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-08T03:18:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-1/</loc>

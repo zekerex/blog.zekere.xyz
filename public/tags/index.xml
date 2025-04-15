@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Blog of RANDOM</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jan 2025 03:18:01 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 16:06:18 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Wed, 29 Jan 2025 16:06:18 -0600</pubDate>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
     <item>
       <title>3d</title>
       <link>http://localhost:1313/tags/3d/</link>
